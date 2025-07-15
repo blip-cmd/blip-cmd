@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan Nii-Akwei Brown! 👋
 
-![Banner](<img width="3780" height="1890" alt="Ryan NII AKWEI BROWN (1)" src="https://github.com/user-attachments/assets/8b5f7a8b-b4cb-4b39-9ce5-55577c45fbb2" />) <!-- Optional: Add a banner image -->
+![Banner](C:\Users\kayce\Downloads\Ryan NII AKWEI BROWN (1).png) <!-- Optional: Add a banner image -->
 
 ## 👨🏽‍💻 About Me
 
