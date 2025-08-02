@@ -40,7 +40,7 @@ I'm a passionate **Data Scientist & Software Engineer** who thrives on solving c
 ## 📌 Featured Projects
 
 Climate Sentinel Project
-Built for the Huawei Innovation Competition — a machine learning model that assists in patient triage decisions using intelligent symptom analysis.  
+Built for the Huawei Innovation Competition - a machine learning model that assists in patient triage decisions using intelligent symptom analysis.  
 **Tech Stack**: Python, Scikit-learn, Flask, Huawei Cloud
 
 ---
