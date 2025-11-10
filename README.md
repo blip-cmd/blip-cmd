@@ -47,8 +47,6 @@ Built for the Huawei Innovation Competition - a machine learning model that assi
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ryanintech/)
-- 💻 [GitHub](https://github.com/blip-cmd)
-- ✉️ Email:(ryanniikweibrown1@gmail.com)
 
 ---
 
