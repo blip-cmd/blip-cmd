@@ -55,6 +55,3 @@ Automated real-time data ingestion pipelines with Kafka Connect, PostgreSQL, MyS
 
 > "Life is an experience, and mine is focused on building technology that matters."
 
----
-
-Do you want me to do that?
