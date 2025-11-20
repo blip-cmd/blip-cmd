@@ -13,7 +13,7 @@ I have gained practical experience through internships and projects with **Npont
 ## What I'm Working On
 
 * Learning: **Deep Learning, Cloud Engineering, and DevOps**
-* Working on: **AI-powered applications and data visualization dashboards**
+* Working on: **AI-powered applications and data visualisation dashboards**
 * Open to: **Collaborations, internships, and challenging technical projects**
 * Exploring: **Natural Language Processing, AI Ethics, and Data Storytelling**
 
@@ -24,7 +24,7 @@ I have gained practical experience through internships and projects with **Npont
 **Languages & Frameworks:** Python, Java, JavaScript (React, Node.js), Django, FastAPI, HTML, CSS
 **Databases & Cloud:** PostgreSQL, MySQL, Kafka, Elasticsearch, Logstash, Grafana, Huawei Cloud
 **DevOps & Tools:** Docker, Git, CI/CD, Kubernetes (basic), Celery
-**AI & ML:** NLP, Machine Learning, Computer Vision
+**AI & ML:** NLP, Machine Learning, Computer Vision, PowerBI
 
 ---
 
