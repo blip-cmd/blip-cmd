@@ -1,54 +1,60 @@
-# Hi there, I'm Ryan Nii Akwei Brown! 👋
-<img width="3780" height="1890" alt="Ryan NII AKWEI BROWN (1)" src="https://github.com/user-attachments/assets/bd8c6404-4b8b-4557-9fec-608af3cd7f26" />
- <!-- Optional: Add a banner image -->
+# Ryan Brown
 
-## 👨🏽‍💻 About Me
+## About Me
 
-I'm a passionate **Data Scientist & Software Engineer** who thrives on solving complex problems and building intelligent, data-driven solutions.
+I am a **Software Engineer and Data Enthusiast** with a strong foundation in building scalable systems, AI-powered solutions, and data-driven applications. I focus on solving complex problems and delivering real-world impact through technology.
 
-🎓 I'm currently pursuing a **BSc in Computer Science & Statistics** at the **University of Ghana**, and proudly serve as the **General Secretary** of the Computer Science Students' Association (COMPSSA).
+I am currently pursuing a **BSc in Computer Science & Statistics** at the **University of Ghana** and serve as the **General Secretary** of the Computer Science Students' Association (COMPSSA).
 
-🌍 From banking to health tech, I’ve worked across diverse industries through internships at **Ultimega Solutions**, **Npontu Technologies**, and **Universal Merchant Bank**.
-
-🏅 I’m also a **Global Finalist** in the **Huawei ICT Innovation Competition**, where I built an AI-driven solution to support healthcare triage.
+I have gained practical experience through internships and projects with **Npontu Technologies**, **Universal Merchant Bank**, and the **Climate Sentinel AI + IoT project**. I was also a **Global Finalist** in the **Huawei ICT Innovation Competition**, where I co-developed an AI-enabled environmental monitoring solution.
 
 ---
 
-## 🚀 What I'm Up To
+## What I'm Working On
 
-- 🌱 Currently learning: **Deep Learning, DevOps, and Cloud Engineering**
-- 🔭 Working on: **AI-powered apps & data visualization dashboards**
-- 🤝 Open to: **Collaborations, internships, and innovative challenges**
-- 🧠 Exploring: **NLP, AI Ethics, Data Storytelling**
-- 🎙️ Fun fact: I love research, friendly debates, and hackathons!
-
----
-
-## 🛠️ Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+* Learning: **Deep Learning, Cloud Engineering, and DevOps**
+* Working on: **AI-powered applications and data visualization dashboards**
+* Open to: **Collaborations, internships, and challenging technical projects**
+* Exploring: **Natural Language Processing, AI Ethics, and Data Storytelling**
 
 ---
 
-## 📌 Featured Projects
+## Skills & Tools
 
-Climate Sentinel Project
-Built for the Huawei Innovation Competition - a machine learning model that assists in patient triage decisions using intelligent symptom analysis.  
-**Tech Stack**: Python, Scikit-learn, Flask, Huawei Cloud
-
----
-
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ryanintech/)
+**Languages & Frameworks:** Python, Java, JavaScript (React, Node.js), Django, FastAPI, HTML, CSS
+**Databases & Cloud:** PostgreSQL, MySQL, Kafka, Elasticsearch, Logstash, Grafana, Huawei Cloud
+**DevOps & Tools:** Docker, Git, CI/CD, Kubernetes (basic), Celery
+**AI & ML:** NLP, Machine Learning, Computer Vision
 
 ---
 
-> "Life is an experience, and mine is code is chill."
+## Featured Projects
 
+**Climate Sentinel Project**
+AI + IoT system for environmental anomaly detection, integrating sensor data with drones for verification.
+**Tech Stack:** Python, Flask, Kafka, Elasticsearch, Logstash, Huawei Cloud
+
+**Npontu Data Pipeline & Monitoring**
+Automated real-time data ingestion pipelines with Kafka Connect, PostgreSQL, MySQL, and Elasticsearch.
+**Tech Stack:** Python, PostgreSQL, MySQL, Kafka, Elasticsearch, Grafana
+
+---
+
+## Achievements
+
+* **Huawei ICT Innovation Competition 2025 – Global Finalist (2nd Prize & Green Development Award)**
+* Dean’s List, University of Ghana (2024)
+
+---
+
+## Connect with Me
+
+* LinkedIn: [https://www.linkedin.com/in/ryanintech/](https://www.linkedin.com/in/ryanintech/)
+
+---
+
+> "Life is an experience, and mine is focused on building technology that matters."
+
+---
+
+Do you want me to do that?
