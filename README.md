@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a **Software Engineer and Data Enthusiast** with a strong foundation in building scalable systems, AI-powered solutions, and data-driven applications. I focus on solving complex problems and delivering real-world impact through technology.
+I am a **Software Engineer and Data Professional** with a strong foundation in building scalable systems, AI-powered solutions, and data-driven applications. I focus on solving complex problems and delivering real-world impact through technology.
 
 I am currently pursuing a **BSc in Computer Science & Statistics** at the **University of Ghana** and served as the **General Secretary** of the Computer Science Students' Association (COMPSSA) 2025.
 
