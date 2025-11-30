@@ -32,18 +32,18 @@ I have gained practical experience through internships and projects with **Npont
 
 **Climate Sentinel Project**
 AI + IoT system for environmental anomaly detection, integrating sensor data with drones for verification.
-**Tech Stack:** Python, Flask, Kafka, Elasticsearch, Logstash, Huawei Cloud
+**Tech:** Python, Huawei Cloud(IotDa,DNS,Bucket,Message Service)
 
 **Npontu Data Pipeline & Monitoring**
 Automated real-time data ingestion pipelines with Kafka Connect, PostgreSQL, MySQL, and Elasticsearch.
-**Tech Stack:** Python, PostgreSQL, MySQL, Kafka, Elasticsearch, Grafana
+**Tech:** Docker, PostgreSQL, MySQL, Kafka, Elasticsearch, Grafana
 
 ---
 
 ## Achievements
 
 * **Huawei ICT Innovation Competition 2025 – Global Finalist (2nd Prize & Green Development Award)**
-* Dean’s List, University of Ghana (2024)
+* Dean’s List, University of Ghana (2025)
 
 ---
 
