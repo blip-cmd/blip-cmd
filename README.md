@@ -1,4 +1,4 @@
-# **Ryan Nii Akwei Brown** aka blip
+# **Ryan Nii Akwei Brown** (blip)
 
 **Software Engineer | Data Professional**
 
