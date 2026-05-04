@@ -2,7 +2,7 @@
 
 **Software Engineer | Data Professional**
 
-I develop scalable backend systems and AI-powered data solutions. My work focuses on bridging the gap between raw data and actionable intelligence through robust engineering. I am a Computer Science and Statistics student at the University of Ghana and a former General Secretary of the Computer Science Students' Association (COMPSSA).
+I specialise in scalable backend systems and AI-powered data solutions. My work focuses on bridging the gap between raw data and actionable intelligence through robust engineering. I am a Computer Science and Statistics student at the University of Ghana and a former General Secretary of the Computer Science Students' Association (COMPSSA).
 
 ## **Core Competencies**
 
@@ -17,8 +17,14 @@ I develop scalable backend systems and AI-powered data solutions. My work focuse
 ## **Key Achievements**
 
 * **Global Finalist (2nd Prize & Green Development Award):** Huawei ICT Innovation Competition 2025\. Co-developed an AI-enabled environmental monitoring solution.  
-* **Dean’s List:** University of Ghana (2026).
+* **Seven-time Dean’s List Honoree:** University of Ghana (2026). Recognised for sustained academic excellence in BSc Computer Science with Statistics
 * **Leadership:** Served as General Secretary for COMPSSA (2025), managing student body operations and technical initiatives.
+
+Global Finalist (2nd Prize & Green Development Award): Huawei ICT Innovation Competition 2025. Co-developed an AI-enabled environmental monitoring solution.
+
+Seven-time Dean’s List Honoree: University of Ghana (2026). Recognised for sustained academic excellence in BSc Computer Science and Statistics.
+
+Leadership: Served as General Secretary for COMPSSA (2025), managing student body operations and technical initiatives.
 
 ## **Featured Projects**
 
