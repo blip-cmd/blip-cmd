@@ -20,12 +20,6 @@ I specialise in scalable backend systems and AI-powered data solutions. My work 
 * **Seven-time Dean’s List Honoree:** University of Ghana (2026). Recognised for sustained academic excellence in BSc Computer Science with Statistics
 * **Leadership:** Served as General Secretary for COMPSSA (2025), managing student body operations and technical initiatives.
 
-Global Finalist (2nd Prize & Green Development Award): Huawei ICT Innovation Competition 2025. Co-developed an AI-enabled environmental monitoring solution.
-
-Seven-time Dean’s List Honoree: University of Ghana (2026). Recognised for sustained academic excellence in BSc Computer Science and Statistics.
-
-Leadership: Served as General Secretary for COMPSSA (2025), managing student body operations and technical initiatives.
-
 ## **Featured Projects**
 
 ### [**CPG Market Gap Analysis**](https://github.com/blip-cmd/cpg_market_gap_analysis)
