@@ -1,57 +1,63 @@
-# Ryan Brown
+# **Ryan Brown**
 
-## About Me
+**Software Engineer | Data Professional**
 
-I am a **Software Engineer and Data Professional** with a strong foundation in building scalable systems, AI-powered solutions, and data-driven applications. I focus on solving complex problems and delivering real-world impact through technology.
+I develop scalable backend systems and AI-powered data solutions. My work focuses on bridging the gap between raw data and actionable intelligence through robust engineering. I am a Computer Science and Statistics student at the University of Ghana and a former General Secretary of the Computer Science Students' Association (COMPSSA).
 
-I am currently pursuing a **BSc in Computer Science & Statistics** at the **University of Ghana** and served as the **General Secretary** of the Computer Science Students' Association (COMPSSA) 2025.
+## **Core Competencies**
 
-I have gained practical experience through internships and projects with **Npontu Technologies**, **Universal Merchant Bank**, and the **Climate Sentinel AI + IoT project**. I was also a **Global Finalist** in the **Huawei ICT Innovation Competition**, where I co-developed an AI-enabled environmental monitoring solution.
+| Category | Technologies |
+| :---- | :---- |
+| **Languages** | Python, Java, JavaScript, HTML, CSS |
+| **Frameworks** | Django, FastAPI, Node.js, React |
+| **Data & Infrastructure** | PostgreSQL, MySQL, Kafka |
+| **DevOps & Cloud** | Docker, CI/CD, Huawei Cloud |
+| **AI & Analysis** | NLP, Computer Vision, Machine Learning, Power BI, Statistical Inference |
 
----
+## **Key Achievements**
 
-## What I'm Working On
+* **Global Finalist (2nd Prize & Green Development Award):** Huawei ICT Innovation Competition 2025\. Co-developed an AI-enabled environmental monitoring solution.  
+* **Dean’s List:** University of Ghana (2026).
+* **Leadership:** Served as General Secretary for COMPSSA (2025), managing student body operations and technical initiatives.
 
-* Learning: **Deep Learning, Cloud Engineering, and DevOps**
-* Working on: **AI-powered applications and data visualisation dashboards**
-* Open to: **Collaborations, internships, and challenging technical projects**
-* Exploring: **Natural Language Processing, AI Ethics, and Data Storytelling**
+## **Featured Projects**
 
----
+### [**CPG Market Gap Analysis**](https://github.com/blip-cmd/cpg_market_gap_analysis)
 
-## Skills & Tools
+Strategic analysis identifying growth opportunities within 12GB+ of Open Food Facts data.
 
-**Languages & Frameworks:** Python, Java, JavaScript (React, Node.js), Django, FastAPI, HTML, CSS
-**Databases & Cloud:** PostgreSQL, MySQL, Kafka, Elasticsearch, Logstash, Grafana, Huawei Cloud
-**DevOps & Tools:** Docker, Git, CI/CD, Kubernetes (basic), Celery
-**AI & ML:** NLP, Machine Learning, Computer Vision, PowerBI
+* Developed memory-efficient Python scripts to process large-scale datasets.  
+* Identified high-protein "Blue Ocean" market segments through data-driven modelling.
 
----
+### [**Smart Home Energy Manager (SHEM-MAS)**](https://github.com/blip-cmd/shem-mas-spade)
 
-## Featured Projects
+A BDI-style (Belief-Desire-Intention) multi-agent system built to optimise home energy self-sufficiency.
 
-**Climate Sentinel Project**
-AI + IoT system for environmental anomaly detection, integrating sensor data with drones for verification.
-**Tech:** Python, Huawei Cloud(IotDa,DNS,Bucket,Message Service)
+* Utilised the SPADE framework for agent communication.  
+* Implemented stochastic environmental modelling to predict and manage energy consumption.
 
-**Npontu Data Pipeline & Monitoring**
-Automated real-time data ingestion pipelines with Kafka Connect, PostgreSQL, MySQL, and Elasticsearch.
-**Tech:** Docker, PostgreSQL, MySQL, Kafka, Elasticsearch, Grafana
+### **Npontu Data Pipeline & Automation**
 
----
+Architected real-time ingestion pipelines to automate data flows between disparate systems.
 
-## Achievements
+* Integrated Kafka Connect to streamline data movement between SQL databases.  
+* Focused on reducing manual data latency and ensuring high availability of system metrics.
 
-* **Huawei ICT Innovation Competition 2025 – Global Finalist (2nd Prize & Green Development Award)**
-* Dean’s List, University of Ghana (2025)
+### **Climate Sentinel (AI \+ IoT)**
 
----
+An environmental anomaly detection system integrating sensor data with drone verification.
 
-## Connect with Me
+* Developed using Python and Huawei Cloud services, including IoTDA and Message Service.  
+* (Internal Project: Documentation available upon request).
 
-* LinkedIn: [https://www.linkedin.com/in/ryanintech/](https://www.linkedin.com/in/ryanintech/)
+## **Experience**
 
----
+* **Npontu Technologies:** Internship focused on data engineering and pipeline automation.  
+* **Universal Merchant Bank:** Technical experience within the banking and finance sector.
 
-> "Life is an experience, and mine is focused on building technology that matters."
+## **Contact**
 
+* **LinkedIn:** [ryanintech](https://www.linkedin.com/in/ryanintech/)  
+* **Email:** ryanniiakweibrown1@gmail.com
+
+"Life is an experience, and mine is focused on building technology that matters."
