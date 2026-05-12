@@ -1,6 +1,6 @@
 # **Ryan Nii Akwei Brown** (blip)
 
-**Software Engineer | Data Professional**
+**Software Engineer & Data Professional**
 
 I specialise in scalable backend systems and AI-powered data solutions. My work focuses on bridging the gap between raw data and actionable intelligence through robust engineering. I am a Computer Science and Statistics student at the University of Ghana and a former General Secretary of the Computer Science Students' Association (COMPSSA).
 
