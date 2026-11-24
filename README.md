@@ -8,7 +8,7 @@ Computer Science with Statistics undergraduate at the University of Ghana, worki
 | :--- | :--- |
 | Languages | Python, Java, JavaScript/TypeScript, C/C++, SQL, Rust, C# |
 | Backend | FastAPI, Flask, Node.js/Express, Django |
-| Data | PostgreSQL, MySQL, SQLite, Kafka, Debezium, Iceberg, ClickHouse |
+| Data | PostgreSQL, MySQL, SQLite |
 | Platform | Linux, Docker, Git, GitHub Actions, AWS EC2, Huawei Cloud |
 | ML | PyTorch, RAG, FAISS, MindSpore Lite |
 
@@ -24,9 +24,9 @@ Computer Science with Statistics undergraduate at the University of Ghana, worki
 - **Huawei ICT Competition Global Final:** 2nd Prize and Green Development Award, for Climate Sentinel (edge-AI forest monitoring).
 - **TeProD Twin Transition Challenge:** 1st place, for CarbonIQ.
 - **DataBloom Africa Cohort 1:** Best Graduating Student.
-- **University of Ghana:** BSc Computer Science with Statistics, CGPA 3.73/4.00.
+- **University of Ghana:** BSc Computer Science with Statistics.
 - **Leadership:** former General Secretary, Computer Science Students' Association (COMPSSA).
 
 ## Contact
 
-[linkedin.com/in/ryanintech](https://www.linkedin.com/in/ryanintech/) | ryanniiakweibrown1@gmail.com
+[linkedin.com/in/ryanintech](https://www.linkedin.com/in/ryanintech/)
