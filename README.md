@@ -8,7 +8,7 @@ Computer Science with Statistics undergraduate at the University of Ghana, worki
 | :--- | :--- |
 | Languages | Python, Java, JavaScript/TypeScript, C/C++, SQL, Rust, C# |
 | Backend | FastAPI, Flask, Node.js/Express, Django |
-| Data | PostgreSQL, MySQL, SQLite, Kafka, Debezium, Iceberg, ClickHouse |
+| Data | PostgreSQL, MySQL, SQLite |
 | Platform | Linux, Docker, Git, GitHub Actions, AWS EC2, Huawei Cloud |
 | ML | PyTorch, RAG, FAISS, MindSpore Lite |
 
