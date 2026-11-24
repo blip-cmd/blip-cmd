@@ -1,63 +1,32 @@
-# **Ryan Nii Akwei Brown** (blip)
+# Ryan Nii Akwei Brown
 
-**Software Engineer & Data Professional**
+Computer Science with Statistics undergraduate at the University of Ghana, working on backend systems and data engineering. Based in Accra, Ghana. Open to relocate.
 
-I specialise in scalable backend systems and AI-powered data solutions. My work focuses on bridging the gap between raw data and actionable intelligence through robust engineering. I am a Computer Science and Statistics student at the University of Ghana and a former General Secretary of the Computer Science Students' Association (COMPSSA).
+## What I work with
 
-## **Core Competencies**
+| Area | Tools |
+| :--- | :--- |
+| Languages | Python, Java, JavaScript/TypeScript, C/C++, SQL, Rust, C# |
+| Backend | FastAPI, Flask, Node.js/Express, Django |
+| Data | PostgreSQL, MySQL, SQLite, Kafka, Debezium, Iceberg, ClickHouse |
+| Platform | Linux, Docker, Git, GitHub Actions, AWS EC2, Huawei Cloud |
+| ML | PyTorch, RAG, FAISS, MindSpore Lite |
 
-| Category | Technologies |
-| :---- | :---- |
-| **Languages** | Python, Java, JavaScript, HTML, CSS |
-| **Frameworks** | Django, FastAPI, Node.js, React |
-| **Data & Infrastructure** | PostgreSQL, MySQL, Kafka |
-| **DevOps & Cloud** | Docker, CI/CD, Huawei Cloud |
-| **AI & Analysis** | NLP, Computer Vision, Machine Learning, Power BI, Statistical Inference |
+## Experience
 
-## **Key Achievements**
+- **PaySwitch**, Data Engineering Intern (May to Oct 2026): lakehouse design proposal with Debezium CDC, Apache Iceberg and ClickHouse; REST APIs; RAG assistant.
+- **DataBloom Africa**, Technical Facilitator (Aug 2026 to present), Data Science Fellow (Oct 2025 to Mar 2026).
+- **Ultimega Solutions**, Software Developer (Jul to Dec 2025).
+- **Npontu Technologies**, Intelligent Systems Intern (Sep to Oct 2024): Kafka Connect pipeline.
 
-* **Global Finalist (2nd Prize & Green Development Award):** Huawei ICT Innovation Competition 2025\. Co-developed an AI-enabled environmental monitoring solution.  
-* **Seven-time Dean’s List Honoree:** University of Ghana (2026). Recognised for sustained academic excellence in BSc Computer Science with Statistics
-* **Leadership:** Served as General Secretary for COMPSSA (2025), managing student body operations and technical initiatives.
+## Highlights
 
-## **Featured Projects**
+- **Huawei ICT Competition Global Final:** 2nd Prize and Green Development Award, for Climate Sentinel (edge-AI forest monitoring).
+- **TeProD Twin Transition Challenge:** 1st place, for CarbonIQ.
+- **DataBloom Africa Cohort 1:** Best Graduating Student.
+- **University of Ghana:** BSc Computer Science with Statistics, CGPA 3.73/4.00.
+- **Leadership:** former General Secretary, Computer Science Students' Association (COMPSSA).
 
-### [**CPG Market Gap Analysis**](https://github.com/blip-cmd/cpg_market_gap_analysis)
+## Contact
 
-Strategic analysis identifying growth opportunities within 12GB+ of Open Food Facts data.
-
-* Developed memory-efficient Python scripts to process large-scale datasets.  
-* Identified high-protein "Blue Ocean" market segments through data-driven modelling.
-
-### [**Smart Home Energy Manager (SHEM-MAS)**](https://github.com/blip-cmd/shem-mas-spade)
-
-A BDI-style (Belief-Desire-Intention) multi-agent system built to optimise home energy self-sufficiency.
-
-* Utilised the SPADE framework for agent communication.  
-* Implemented stochastic environmental modelling to predict and manage energy consumption.
-
-### **Npontu Data Pipeline & Automation**
-
-Architected real-time ingestion pipelines to automate data flows between disparate systems.
-
-* Integrated Kafka Connect to streamline data movement between SQL databases.  
-* Focused on reducing manual data latency and ensuring high availability of system metrics.
-
-### **Climate Sentinel (AI \+ IoT)**
-
-An environmental anomaly detection system integrating sensor data with drone verification.
-
-* Developed using Python and Huawei Cloud services, including IoTDA and Message Service.  
-* (Internal Project: Documentation available upon request).
-
-## **Experience**
-
-* **Npontu Technologies:** Internship focused on data engineering and pipeline automation.  
-* **Universal Merchant Bank:** Technical experience within the banking and finance sector.
-
-## **Contact**
-
-* **LinkedIn:** [ryanintech](https://www.linkedin.com/in/ryanintech/)  
-* **Email:** ryanniiakweibrown1@gmail.com
-
-"Life is an experience, and mine is focused on building technology that matters."
+[linkedin.com/in/ryanintech](https://www.linkedin.com/in/ryanintech/) | ryanniiakweibrown1@gmail.com
