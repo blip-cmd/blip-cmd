@@ -1,6 +1,10 @@
 # Ryan Nii Akwei Brown
 
-Computer Science with Statistics undergraduate at the University of Ghana, working on backend systems and data engineering. Based in Accra, Ghana. Open to relocate.
+I am building towards AI engineering, and I chose data engineering as my foundation because reliable AI systems depend on reliable data.
+
+So far that has meant interning on data engineering at a fintech (PaySwitch), facilitating technical training at DataBloom Africa, and building edge-AI systems with teams: Climate Sentinel placed 2nd at the Huawei ICT Competition Global Final.
+
+I study Computer Science with Statistics at the University of Ghana. Based in Accra, open to relocate.
 
 ## What I work with
 
