@@ -37,6 +37,11 @@ I study Computer Science with Statistics at the University of Ghana. Based in Ac
 | Data | PostgreSQL, MySQL, SQLite, Kafka Connect |
 | Platform | Linux, Docker, Git, GitHub Actions, AWS EC2, Huawei Cloud |
 | ML | PyTorch, RAG, FAISS, MindSpore Lite |
+| Agentic development | Building with AI coding agents: scoping the task, setting checks it has to pass, and reviewing what it produces |
+
+## Who I work with
+
+Developers, product managers, stakeholders, mentors and whole teams. At PaySwitch I interviewed people across departments to write the requirements, and at DataBloom I teach fellows, so I am used to explaining technical work to people who are not engineers.
 
 ## Contact
 
