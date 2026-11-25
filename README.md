@@ -6,6 +6,13 @@ So far that has meant interning on data engineering at a fintech (PaySwitch), fa
 
 I study Computer Science with Statistics at the University of Ghana. Based in Accra, open to relocate.
 
+## Projects
+
+- **[opportunity-hunter-bot](https://github.com/blip-cmd/opportunity-hunter-bot):** scheduled pipeline that collects job and scholarship postings, filters them with fixed rules, then has an LLM review the shortlist. Claims about who may apply must quote the real posting page. Python, GitHub Actions.
+- **[disal-edge-ids-demo](https://github.com/blip-cmd/disal-edge-ids-demo):** demo of a hybrid Swin-LSTM network intrusion detector, with FP32 (4.04 MB) and INT8 (1.15 MB) weights side by side. Final year project with [Yaw Adu Bempong](https://github.com/yawdotio), mentored by NanaKay. The research source code is not public at the moment. Python, Streamlit.
+- **[cpg_market_gap_analysis](https://github.com/blip-cmd/cpg_market_gap_analysis):** exploratory market analysis on a sample of Open Food Facts, reading 500,000 rows in chunks to limit memory use. Python, Pandas.
+- **[shem-mas-spade](https://github.com/blip-cmd/shem-mas-spade):** smart home energy simulation where two agents communicate over XMPP, designed with the Prometheus methodology. Python, SPADE.
+
 ## What I work with
 
 | Area | Tools |
