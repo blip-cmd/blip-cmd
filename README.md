@@ -41,7 +41,7 @@ I study Computer Science with Statistics at the University of Ghana. Based in Ac
 
 ## Who I work with
 
-Developers, product managers, stakeholders, mentors and whole teams. At PaySwitch I interviewed people across departments to write the requirements, and at DataBloom I teach fellows, so I am used to explaining technical work to people who are not engineers.
+Developers, product managers, stakeholders, mentors and whole teams. At PaySwitch I interviewed people across departments to write the requirements, and at DataBloom I teach fellows, so I got better at explaining technical work.
 
 ## Contact
 
